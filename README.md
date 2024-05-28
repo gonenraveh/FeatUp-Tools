@@ -2,6 +2,8 @@
 
 ### New Utility: FeatUp_GonenRavehTools_predict.py
 ```
+git clone https://github.com/gonenraveh/FeatUp-Tools
+cd FeatUp-Tools
 python FeatUp_GonenRavehTools_predict.py
 ```
 
