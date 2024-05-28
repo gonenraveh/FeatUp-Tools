@@ -1,3 +1,10 @@
+# FeatUp Update by Gonen Raveh
+
+### New Utility: FeatUp_GonenRavehTools_predict.py
+```
+python FeatUp_GonenRavehTools_predict.py
+```
+
 # FeatUp: A Model-Agnostic Framework for Features at Any Resolution
 ###  ICLR 2024
 
